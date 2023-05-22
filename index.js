@@ -3,4 +3,6 @@
 
 const startGame = require('./mainMenu.js');
 
-// startGame();
+
+
+startGame();
